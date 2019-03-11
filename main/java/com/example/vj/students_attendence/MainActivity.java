@@ -15,10 +15,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-       /* btntake.setOnClickListener(findViewById(R.id.btntake));
+        btntake.setOnClickListener(findViewById(R.id.btntake));
         btnadd.setOnClickListener(findViewById(R.id.btnadd));
         btndelete.setOnClickListener(findViewById(R.id.btndelete));
-        btnhelp.setOnClickListener((View.OnClickListener) findViewById(R.id.btnhelp));*/
+        btnhelp.setOnClickListener((View.OnClickListener) findViewById(R.id.btnhelp));
 
 
     }
